@@ -1,0 +1,9 @@
+fastapi[standard]
+pymongo
+python-dotenv
+python-decouple
+sqlalchemy
+psycopg2-binary
+pydantic
+passlib[bcrypt]
+alembic
